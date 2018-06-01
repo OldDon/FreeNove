@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Blink.py" />
     <Compile Include="FreeNove.py" />
     <Compile Include="PCF8591.py" />
   </ItemGroup>
